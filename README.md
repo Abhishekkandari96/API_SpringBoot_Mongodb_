@@ -21,7 +21,7 @@ Source For Learning :https://youtu.be/kYiLzIiHVY8?si=SiNswAtXGnskv-5u
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/joblisting.git
+git clone [https://github.com/your-username/joblisting.git](https://github.com/Abhishekkandari96/API_SpringBoot_Mongodb_.git)
 cd joblisting
 mvn clean install
 mvn spring-boot:run
